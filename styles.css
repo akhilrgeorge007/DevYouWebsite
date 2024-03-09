@@ -34,10 +34,11 @@ section {
 .herotext{
   width: 50%;
   text-align: left;
+  padding: 50px;
 }
 
 .herotext h1, .herotext p{
-  margin: 0px 0px 0px 156px;
+  margin: 0px 0px 10px 0px;
 
 }
 
@@ -60,6 +61,7 @@ section {
 .heroimg{
   width: 50%;
 }
+
 
 .overlayimg{
   position: absolute;
