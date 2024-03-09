@@ -507,7 +507,7 @@ footer {
   }
 
   .herotext h1{
-    font-size: 95px;
+    font-size: 93px;
     font-family: 'Montserrat';
     font-weight: bold;
     letter-spacing: -6%;
@@ -531,7 +531,7 @@ footer {
 
 
   .shadowimg{
-    width: 100%;
+    width: 120%;
   }
 
   .overlayimg{
