@@ -530,7 +530,11 @@ footer {
   }
 
 
-  .heroimg img{
+  .shadowimg{
+    width: 100%;
+  }
+
+  .overlayimg{
     width: 75%;
   }
 
