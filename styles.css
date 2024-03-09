@@ -506,12 +506,16 @@ footer {
   }
 
   .herotext h1{
-    font-size: 95px;
+    font-size: 100px;
     font-family: 'Montserrat';
     font-weight: bold;
     letter-spacing: -6%;
     line-height: 88%;
     margin-bottom: 10px;
+  }
+
+  .herotext p{
+    font-size: 27px;
   }
 
   .herotext h1, .herotext p{
