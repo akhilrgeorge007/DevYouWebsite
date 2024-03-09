@@ -507,7 +507,7 @@ footer {
   }
 
   .herotext h1{
-    font-size: 93px;
+    font-size: 90px;
     font-family: 'Montserrat';
     font-weight: bold;
     letter-spacing: -6%;
@@ -531,11 +531,11 @@ footer {
 
 
   .shadowimg{
-    width: 100%;
+    width: 95%;
   }
 
   .overlayimg{
-    width: 65%;
+    width: 60%;
   }
 
   .about p{
@@ -635,7 +635,7 @@ footer {
   overflow-y: hidden;
   grid-template-columns: 100% 100% 100% 100%;
   padding: 10px;
-  width: 405px;
+  max-width: 90vw;
   height: 100%;
   row-gap: 10px;
   column-gap: 10px;
